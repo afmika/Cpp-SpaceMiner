@@ -1,0 +1,4 @@
+-1. FAIRE UN EFFET PARALAXE DU BACKGROUND (ON RESIZE LE BACKGROUND MAIS JUSTE UN PEU ) !!!!
+ 0. Le vaisseau est localise au centre (idem pour le focus), l'axe z definira la profondeur en avant
+ 1. Creer des shaders cool pour l'effet futuriste ET creer de jolies etoiles bleues
+ 2. Faire / Trouver le sprite d'un vaisseau et des trucs noirs carreaux comme celui de Tron en tant que background
